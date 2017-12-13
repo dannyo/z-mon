@@ -458,8 +458,10 @@
     </style>
 
 	<div id="header">
+        <j:if test="${it.teamLogoURL != ''}">
+            <div id="logo"><img src="${it.teamLogoURL}" /></div>
+        </j:if>
 
-        <div id="logo"><img src="${it.teamLogoURL}" /></div>
         <div class="title">
             <div id="team-name">${it.teamName}</div>
             <div id="build-num">
