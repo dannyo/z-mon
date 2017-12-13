@@ -9,7 +9,7 @@
 		<f:textbox id="zmon.teamLogo" name="teamLogoURL" />
 	</f:entry>
     <f:entry title="${%Sequential Jobs?}" field="isSequential" description="If checked, the view will indicate flow.">
-      <f:checkbox/>
+      <f:checkbox checked="true"/>
     </f:entry>
 	<f:entry title="${%Job 1 Actual Name}" field="actualNameJob1">
 		<f:textbox id="zmon.actualNameJob1" name="actualNameJob1" />
