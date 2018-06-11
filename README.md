@@ -1,7 +1,8 @@
 z-mon
 =====
 
-A jenkins build monitor plugin
+A jenkins build monitor plugin.
+Modified to work with Jenkins 2 compatibility.
 
 How to Build and Install Z-Mon
 ------------------------------
