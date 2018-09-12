@@ -8,8 +8,10 @@ work/
 .sass-cache/
 ~*.pptx
 .idea
+.iml
 tags
 
 .classpath
 
 .project
+
